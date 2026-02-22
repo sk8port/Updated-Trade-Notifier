@@ -1,4 +1,5 @@
-## Horizon Trade Notifier  
+## Horizon Trade Notifier 
+## NOTE THIS PROGRAM USES PYTHON VERSION 3.9.0 OR OLDER!!!
 Horizon is a Python trade notifier for Roblox, which will send custom-themed image notifications to discord webhooks.  
   
 Horizon boasts an impressive range of features, including custom-built images at runtime adapting to detected trade data, easily adaptable theme configuration, and much more. 

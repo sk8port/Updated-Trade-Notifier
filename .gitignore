@@ -1,0 +1,7 @@
+/logs
+horizon_config.ini
+/__pycache__
+main.spec
+/dist
+/build
+/.vscode

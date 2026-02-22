@@ -25,3 +25,4 @@ If you would like to contact me (Jartan) personally, you can do so via any of th
 * Email: jgogox@gmail.com  
 * Discord User: Jartan#9796  
 * Discord ID: 511608939477991425  
+## THE USER THAT UPLOADED THIS DID NOT MAKE THIS I SIMPLY FIXED THE CODE FOR IT TO WORK AGAIN
